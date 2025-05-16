@@ -54,7 +54,7 @@
 
 ## Preview
 
-[Preview Video](preview/preview.mp4)
+![Preview Video](preview/preview.gif)
 
 ## 🛠️ Installation
 
