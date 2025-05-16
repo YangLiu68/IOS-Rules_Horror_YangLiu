@@ -54,18 +54,14 @@
 
 ## Preview
 
-(screenshots)
-
-(screenshots)
-
-(screenshots)
+![Preview Video](preview/preview.mp4)
 
 ## 🛠️ Installation
 
 **1. Clone the Project:**
 
 ```
-git clone https://github.com/YangLiu68/RulesHorror.git
+git clone https://github.com/YangLiu68/CSC780Rules_Horror.git
 ```
 
 **2. Configure Firebase:**
