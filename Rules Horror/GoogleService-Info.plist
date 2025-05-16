@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBJx5I0UnQHd3ujpq6bHb2jC0ImVt9qY64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>36838907340</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.sfsu.924438213</string>
+	<key>PROJECT_ID</key>
+	<string>storygameproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>storygameproject.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:36838907340:ios:4703e4556b8e68aaad9169</string>
+	<key>DATABASE_URL</key>
+	<string>https://storygameproject-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,3868 @@
+[
+    {
+        "name": "Classmate who died by appointment",
+        "messages": [
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "All those who refused are dead; I'm not threatening you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Okay.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(So, I've concluded: don't casually ask strangers for help, and don't question them either, because they'll demand twice as much from you!! If you refuse, it's a dead end.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Don't owe any favors to the abnormal student, not even a bit.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(! Outside the dormitory, if you have an issue, go to the counselor!) I suddenly thought of this rule.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "End-of-class bell",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Wait for me a moment; I'm going upstairs to grab something.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "Don't run away, okay? I can find you wherever you go, and you'll be punished!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I'm not running, I'm not running. Just wait for me half an hour.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "Alright.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "Image of the counselor's office",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Counselor",
+                "type": 0,
+                "value": "Please come in!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I begin describing my situation.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Counselor",
+                "type": 0,
+                "value": "(Hands over a note.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(The note has three lines:\n! It's okay to go to the principal's office, but you're not allowed to say that you can go there,\n! Having the abnormal student request to go to the principal's office is correct,\n! The abnormal student’s memory is confused; they have long forgotten the rules)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I understand.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I returned to the classroom, back by his side.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The principal wants you to go to the office.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "I can go to the principal's office?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "You can go.",
+                    "(Think again)"
+                ],
+                "routes": [
+                    "Asked the deceased classmate to go to the principal's office",
+                    "Hinted that the deceased classmate should go to the principal's office"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "The First Day",
+        "messages": [
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "1. Do not answer any of the teacher’s questions.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "1. Do not answer any of the teacher’s questions.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "2. If the teacher drags out class, ignore it. You are not allowed to linger in the classroom after the bell.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "3. No skipping class; remain quiet in the classroom.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "4. The library is absolutely safe; you may stay for no more than two hours at a time. You must stay quiet in the library, or the administrator will punish you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "5. The dorm is absolutely safe, but only from 8 PM to 8 AM.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "6. The study room is safe; you may stay for no more than one hour at a time. Classmates may talk among themselves, but they are not necessarily normal.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "7. If no one inside opens the door, no one can enter the dorm from outside.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "8. After 11 PM, do not open the door for dorm inspection.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "9. Do not turn off the lights before sleeping; they will turn off by themselves.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "10. If you see someone wearing a red tall hat in the hallway, immediately seek help from the dorm supervisor, and do not look back.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "11. Inside the dorm, go to the dorm supervisor if you have problems; outside the dorm, go to the counselor.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "12. Do not go to the principal’s office.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "13. Do not eat the meat buns in the cafeteria.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "14. Stay away from the cats on campus. Do not feed them; you cannot choose what you sacrifice to feed them.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "15. There are no dogs on campus. Stay away from anyone who claims to see a dog.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "16. Be wary of the student council; there’s no one in the student council.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "17. After midnight, do not leave the dorm; wait until dawn.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "18. In a dorm that has been annihilated, do not eat anything inside or speak to anyone there.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "19. Do not speak to anyone in the school restroom stalls.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "20. Before sleeping, make sure your roommates are normal. If you notice something odd, say “There’s a dog outside,” and lock the door against the person who leaves.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "21. Try to keep your roommates safe; you alone are unlikely to survive.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "22. Never eat too much or be greedy.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "23. Do not trust others lightly.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "24. Hold out for seven days. After seven days, the campus will be unsealed. Take bus 17 to leave this place.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Stranger",
+                "type": 0,
+                "value": "25. Before the campus is unsealed, under no circumstances may you leave!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "Image of Room 1",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Must remain silent in the classroom",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Did you all get the text message?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Scream",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Yeah, yeah, it’s a prank. I don’t buy it.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "A prank wouldn’t be sent to the whole class, right? Ran, don’t believe it? Then stand up and shout; let’s see if you die.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Get lost.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "I want to see who pulled this prank. Let me speak.",
+                    "Let me wait and see; what if it’s real?"
+                ],
+                "routes": [
+                    "Game over",
+                    "Text message"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "The Fourth Day",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The fourth day"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "We need to figure out when to escape the school before the fifth day; time is running out, we must hurry!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I'll go to the restroom; Sun Huawen, go to the study room.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "What about us? What about us?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Yes, yes.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "You guys go hide in the library; just ensure your own safety.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "What? You didn't assign me a task? Does that mean you look down on me? I'll tell you, I just like it when you look down on me!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I stayed in the restroom for half an hour; didn't find anyone.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Two hours passed)"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I got some information!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Nice job, you!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Someone borrowed paper from me, so I gave him the whole pack; then he returned it, and when I opened it every sheet had writing on it.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "You didn't say a word the whole time?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "They just wanted paper. What would I say? 'I won't lend'? Am I that stingy?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "What’s the information?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Note:\n【You can go see the moon at 4 AM; if you're lucky, the wolf pack will be off their guard.】\n【Once upon a time there were three brothers standing in a row; the middle brother died, and the brother on the side laughed happily. The middle brother was unhappy and killed another brother by bumping him, and one brother ran away.】\n【The wolf pack is very sensitive to the taste of the food you eat; perhaps you have a way...】"
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "A note"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "What way?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I don't know; it wasn't written on the paper.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "You only got three sheets in a pack? What scammer did you encounter?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Do you think it's possible that I used them?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Did you eat breakfast today?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Why ask that?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Everyone today is not allowed to eat anymore.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "The wolf pack must refer to some danger, and they are sensitive to the taste of our food. Since we don't know how to counter it, we simply won't eat.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Brilliant. Leader Sun is truly Leader Sun. I'll leave the next solution to you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Afternoon of the fourth day"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Everyone has arrived at the library"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Do not share our group’s information with anyone else, including Xiao Ze and Huang Pang.\nMe: Got it\n(Now our neutral faction's interests no longer align with the rule faction; although no conflict of interest has occurred, people are people. Even though I used to be so close with Xiao Ze, now I still firmly stand with my own group. Now we just wait for Leader Sun to analyze the timing.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Got it.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Now our neutral faction's interests no longer align with the rule faction; although no conflict of interest has occurred, people are people. Even though I used to be so close with Xiao Ze, now I still firmly stand with my own group. Now we just wait for Leader Sun to analyze the timing.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "On the fifth day, we depart at 4 AM. The wolf pack refers to some danger; I don't know exactly what. The information says at 4 AM you can look at the moon; if you're lucky, the wolf pack will be off their guard.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What does 'if you're lucky' mean?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Luck has probability. According to the rules, we must stay at school for seven days. In those seven days, if there is a day when the wolf pack is off guard, that’s being lucky. The key is, which day? Remember the escape number was 5. The fifth day is that one-seventh chance, the moment when they’re off guard.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I didn't understand the middle brother riddle.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "It's fine; maybe it's a misleading option. Never mind, I can't wait to escape.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "If we hadn't gotten the fifth-day escape information, then Zhou Yiqiang’s info would be meaningless. The information links together; we’re really lucky to have pieced together a way out through chance.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Leaving the library\nXiao Ze: Shall we grab a meal together?\nMe: Tomorrow; Zhou Yiqiang is on a diet lately and insisted on dragging us along.\nXiao Ze: Why the sudden diet?\nMe: Afraid of being too fat to outrun the student council.\nXiao Ze: (Didn't ask further; maybe he knows. Even if he asked, he'd only get nonsense.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "After leaving the library"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Shall we grab a meal together?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Tomorrow; Zhou Yiqiang is on a diet lately and insisted on dragging us along.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Why the sudden diet?\nMe: Afraid of being too fat to outrun the student council.\nXiao Ze: (Didn't ask further; maybe he knows. Even if he asked, he'd only get nonsense.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "(Didn't ask further; maybe he knows. Even if he asked, he'd only get nonsense.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "On the playground, the four of us took a walk."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "More and more people are seeing dogs, but they don’t seem to allow the student council to attack people casually.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "It requires a condition.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What condition? I don't know and I don't care. Maybe they can only attack people they know? In any case, we don't meet the condition.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Wandering around, we ran into Xiao Ze and Huang Pang again."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Shall we go back together?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Sure.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "I know this is the last time I will see the two of them."
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Sentimental Medal"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "4 AM."
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "I don't know what awaits us—an exit or infinite hell."
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "It's time to make the decision."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I'm going to open the door; you all get ready.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "There was nothing outside the door."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "We walked toward the school gate."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Image of the main gate)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The gate is open.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Who goes first?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Let's go together; the dorm door is closed, we can't go back.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Then I'll count one, two, three; everyone step with your right foot.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I object; I'm used to stepping with my left foot first.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Fine, you're so particular; then step with your left foot first.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Three",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Two",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "One...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "We made it out!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 4,
+                "value": "Let's go, to the station!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Inside the station"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Why are there three buses here?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "16, 17 and 18.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Don't take bus 17; the correct ones are the other two.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Then what are we waiting for! Just pick whichever looks good and get on.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Wait, I understand.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Understand what?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 4,
+                "value": "【Once upon a time there were three brothers standing in a row; the middle brother died, and the brother on the side laughed happily.】"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 4,
+                "value": "Of bus numbers 16 and 18, only one bus is correct; taking the wrong bus will still lead to death."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Does bus 17 represent the middle brother?!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "It should be.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Then which one do we take?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I don't know; the information isn't enough.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "If I had known, I would have gone to the restroom more times.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "It's no use. I went eighteen times in one day and no one talked to me. It's already been hard for us to get this far.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Gu Tang was right. Now it's up to fate. I'll choose bus 16.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "Then I'll choose bus 18",
+                    "Then I'll choose bus 16"
+                ],
+                "routes": [
+                    "Bus 18",
+                    "Bus 16"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Hinted that the deceased classmate should go to the principal's office",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! The abnormal student’s memory is confused; they have long forgotten the rules\n! You are not allowed to say that you can go to the principal’s office",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Medal of Caution",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Hurry and go! The principal is looking for you. Aren’t you supposed to eat? I’m hungry. I’ll wait half an hour; if you don’t come, I’m leaving!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "Alright.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Half an hour passed; he did not return",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "I received a message: ! The principal’s office can handle abnormal students",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "There’s still time before lunch; let’s go check the study room",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Image of the study room)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Yesterday in the study room everyone shared their information freely. Today, to get information you must trade your own. Anyone who tries to get info for free will be isolated or given false info. And everyone’s using phones to exchange messages.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "I have info about the dogs. Want it?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate B",
+                "type": 0,
+                "value": "Yes, I’ll trade my info for it.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "I want the method to handle abnormal people.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate B",
+                "type": 0,
+                "value": "Um…",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "If you don’t have it, then go away. I won’t trade; I risked my life to get this info. If it weren’t for someone in the dorm having a problem, I’d have kept it to myself.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Perhaps this person isn’t normal either, but if we don’t trade…",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Let’s trade after all; I also want to know how to handle abnormal people.)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Method to handle abnormal people? Funny, I have that.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Hey man, is your info reliable?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Definitely more reliable than yours.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I have the info you want.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Really? I asked around—nobody knows. Don’t lie, or else watch out for my fist…",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "It’s true.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! The principal’s office can be visited, but you must not say you can go there\n! Having the abnormal student request the principal’s office is correct\n! The abnormal student’s memory is confused; they have long forgotten the rules",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Do not stare at cats. After staring, you must feed them; anyone who refuses will see dogs…",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "That info isn’t easy to get. How did you manage it?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Once I’ve tested that your info is reliable, I’ll tell you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "Alright."
+                ],
+                "routes": [
+                    "Group message"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "The First Night",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! After 11 PM, do not open the door for dorm inspection",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys9",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Tao, can you stop playing games? It's almost 11 PM, they'll come to inspect the dorm. Aren’t you afraid?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Knocking",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Knock, knock, knock",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "\"(Unknown female voice) Open up, dorm inspection—anyone here?\"",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Louder knocking",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Knock, knock, knock",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys10",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(The voice grows faint) until it fades away",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Help! I'm so scared.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "This dorm door looks older than any of us. Can it withstand the pounding?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "That was too hard—step away! If you break it, are you going to take responsibility?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys11",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Knocking",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Knock, knock, knock",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "\"(Unknown female voice) Open up, dorm inspection—anyone here?\"",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "No one in our dorm dared to reply.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Knocking",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Knock, knock, knock",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Louder knocking",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(The knocking grows louder)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Until the sound fades and moves on to the next room...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Finally gone—what a scare!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Looks like as long as we don’t open the door, we’re fine.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Who would open the door? Why open it?)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Let’s thank Mr. Door! Thank you! If it weren’t for you, we’d be toast. Door, door, how could we live without you? Love you, door! If I get the chance, I’ll offer three big incense sticks morning, noon, and night to honor you!!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Door: You’re my bad luck.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Creaking door opening",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Creak... creak...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "(In some dorm) Aaaaaahhhh!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "(In some dorm) Help!!!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "(In some dorm) No! Don't come in!!!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Scream",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Screams echoing",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "What’s happening? Did someone open the door or was it broken down?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! If no one inside opens the door, no one outside can enter the dorm",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(But what if someone did open it? Why?)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Leader Sun, analyze this for us! Comfort my fragile heart!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Tell me, will the dead return to the dorm at night?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Huang Pang",
+                "type": 0,
+                "value": "Isn’t the dorm supposed to be absolutely safe?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! The dorm is absolutely safe",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(If that’s so, the dorm must be safe? Are the rules truly correct? What about the roommates who were harmed? How do we handle them? And those who see dogs... why can they see dogs? Are they still alive?)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "My mind is full of worries.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "(I unknowingly fell asleep)"
+                ],
+                "routes": [
+                    "The Next Day"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Bus 16",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Sun Huawen and Tao Ran chose bus 18; Zhou Yiqiang and I chose bus 16.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Not bad; at least two of us might survive.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Not necessarily; if the restroom person lied to us, we’ll all be wiped out.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Go, go, go—such bad luck. Tao Ran, if you’re lucky enough to survive, watch your mouth and turn over a new leaf. Otherwise someone will eventually want to smack you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Alright, alright. Maybe we all survive; after all, you said the brother riddle was misleading.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Let’s sleep. Once asleep, forget life or death and be at ease.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Okay, take care.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Okay, take care.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Okay, take care.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys25",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys24",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Aaaaaahhhh! We survived!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Hey! Shake me gently! You’re gonna kill me with all that shaking!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "wcwcwc",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "People around",
+                "type": 0,
+                "value": "Are these two crazy?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "People around",
+                "type": 0,
+                "value": "Yeah, how odd...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Leader Sun and the others, and Xiao Ze...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Hey, let’s go check the school; maybe they went back.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys26",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Where’s the school? Why is this just an empty lot?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Passerby 2",
+                "type": 0,
+                "value": "What school? Are you crazy?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Damn, where have we been sent?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Passerby 1",
+                "type": 0,
+                "value": "This makes no sense; this is City B—where else could you be?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "City B?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Ring ring ring",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys27",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Mom",
+                "type": 0,
+                "value": "Where on earth have you gone? You’re not answering your phone! Your counselor called me—you didn’t come home last night. Are you still going to school? And that classmate Zhou Yiqiang—was he with you? Where did you two run off to?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "School? Where’s my school?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Mom",
+                "type": 0,
+                "value": "How much did you drink? Take a taxi back to KU yourself!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "KU? We go to KU?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I guess... it must be...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Image of the dormitory",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Where are Sun Huawen and Tao Ran?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Roommate 1",
+                "type": 0,
+                "value": "Huh? Sun who? Tao Ran? Who’s that?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Roommate 2",
+                "type": 0,
+                "value": "Cousin, where did you and Zhou go off to? You were out all night; we thought you were missing.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Roommate 3",
+                "type": 0,
+                "value": "Yeah! That’s not cool. Next time remember to take me along.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "They seem to know us well?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Yeah, don’t ask and don’t say more.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "【If you don’t want to be treated like a lunatic, follow the new rules.】\n【Blend in with everyone, and don’t tell anyone about that matter.】",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "The Disappeared",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "Background 12",
+                "options": null,
+                "routes": null
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Dead Classmate",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "I found a deceased classmate sitting in the corner of the study room, staring blankly ahead."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! The study room is safe."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Gathering my courage, I walked up to that boy."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Bro... bro, can I ask you something?"
+            },
+            {
+                "character": "Dead classmate",
+                "type": 0,
+                "value": "What is it? Go ahead and ask."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What class was the last one you attended?"
+            },
+            {
+                "character": "Dead classmate",
+                "type": 0,
+                "value": "College Physics."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Okay, thanks."
+            },
+            {
+                "character": "Dead classmate",
+                "type": 0,
+                "value": "You're welcome; come by again next time."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Yeah, right. I don't want to see you again."
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "! A dead person's memory is confused."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "Then I'll ask three questions:"
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "1: The oden at cafeteria No. 3 is pretty good. What do you all like to eat?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Daikon radish."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Cola."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "Roses."
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Basketball."
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "Cafeteria No. 3 doesn't have oden."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "2: What movies have you watched recently?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Did you bring napkins?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "The Crow."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "Hamlet."
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Broccoli."
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "I don't like watching movies."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "3: What time do you go to sleep at night?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I cannot sleep at night."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Lights off, then sleep."
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "I've been focusing on health recently."
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "I never sleep."
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "11:30 PM."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! At this point, nearly an hour has passed, and the classmates in the study room have all left."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Today's school isn't any different from usual."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The vast majority of classmates are still normal."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Right, so I think it's still early; we don't have to return to the dorm yet."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "At first, you could still see many normal people at school, and the library was quite lively."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "But this situation won't last long."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Once those normal people disappear one by one, the library will gradually empty."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "If you see the library still packed, then the surrounding environment is probably still normal."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "When half the seats are empty... you need to be careful; for every two people you meet, one is not quite right."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "And when more than half the seats are empty, that means—you are already surrounded by 'abnormal people.'"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Can I survive?)"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I think, to survive, merely following the rules is not enough. Following rules is what machines excel at."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I want that by the end, without breaking the rules, we must also be flexible and adapt."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "How should we be flexible? How do we adapt?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "It's not clear yet, but survival is no easy task; we have to fight with all we’ve got for a chance to live."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I have a hunch that while obeying the rules, we need to come up with something new ourselves."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "So we need to establish new rules that let us live, without breaking the original ones."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I understand."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(I'm really grateful to have Sun Huawen as a friend.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Being with someone so smart makes me feel like my own intelligence is being elevated.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Sun Huawen, I've decided!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Even if I die, I want to be buried with you, so that thousands of years later archaeologists can exhibit us together in a glass case."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "No way, I'm quite strict with myself; I only allow a woman to be buried with me."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(As expected, a guy who forgets friends at the sight of beauty.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Unknowingly, we walked to the cafeteria."
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg2"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Unlike usual, every window is offering meat buns."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys5"
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg3"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Do not eat the cafeteria's meat buns."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Since we can't eat the meat buns, who are they being sold to?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Keep an eye on the person buying meat buns."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "We really are on the same wavelength, thinking alike."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Leader Sun!"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Brother Gu!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The four of us sat down together."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Xiao Ze and I saw something unbelievable in class today; it was such misfortune for three lifetimes, it scared my big bright eyes."
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "At this moment, Zhou Yiqiang and Huang Pang appeared from who knows where."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Please start your story."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The six of us were all together."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "We saw the Student Council in class. Let's have Tao Ran tell us; he seems eager."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "On that drizzly afternoon, Xiao Ze and I entered the classroom with terror; the teacher stood on the podium motionless like a statue, giving us a smile more mysterious than Mona Lisa's. I felt like Louis XVI being led to the guillotine."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Stop talking like that, you're dawdling. Xiao Ze, you tell it."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Come on, I'll explain properly! During class, a student's phone rang; when he answered, the teacher said he'd punish him, so he killed the teacher."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "That's it?"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Yeah."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Can you go into more detail? You speak so fast as if you're in a hurry to reincarnate."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "If I go into detail, you'll say I'm dragging it out. You're such a fickle man."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Those students were so arrogant, with downright overbearing attitudes."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student had a blank stare and stiff expression; like a rusty machine, he slowly stood up, then drifted through desks and students like a gas to the teacher's side, took out a square box, not large—each side about the size of two phones."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student actually lifted the teacher and forced the teacher into the box, stuffing him completely in. The students watched as a person was squeezed, deformed, and twisted, red liquid flowing everywhere."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student expressionlessly completed it, then walked out of the classroom in the same manner."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "We saw the Student Council in class. Let's have Tao Ran tell us; he seems eager."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "On that drizzly afternoon, Xiao Ze and I entered the classroom with terror; the teacher stood on the podium motionless like a statue, giving us a smile more mysterious than Mona Lisa's. I felt like Louis XVI being led to the guillotine."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Stop talking like that, you're dawdling. Xiao Ze, you tell it."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Come on, I'll explain properly! During class, a student's phone rang; when he answered, the teacher said he'd punish him, so he killed the teacher."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "That's it?"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Yeah."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Can you go into more detail? You speak so fast as if you're in a hurry to reincarnate."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "If I go into detail, you'll say I'm dragging it out. You're such a fickle man."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Those students were so arrogant, with downright overbearing attitudes."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student had a blank stare and stiff expression; like a rusty machine, he slowly stood up, then drifted through desks and students like a gas to the teacher's side, took out a square box, not large—each side about the size of two phones."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student actually lifted the teacher and forced the teacher into the box, stuffing him completely in. The students watched as a person was squeezed, deformed, and twisted, red liquid flowing everywhere."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "That student expressionlessly completed it, then walked out of the classroom in the same manner."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Image of bloodstains"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "How did you know that person was from the Student Council?"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Because each side of the box had the text 'Student Council' written on it."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "But members of the Student Council should be a bit different from normal people and the dead, right? Can you tell just by walking down the street?"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Yes."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "So the Student Council might not be good at disguising, but they are extremely dangerous."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(There's no one in the Student Council.)"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Will Student Council members attack us? You only saw them attack the teacher, right? They sat among so many students and didn't attack any."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Uh, since you think that way, there's nothing I can do. Later I'll help tidy up the dorm for you; you can go sleep at the Student Council, and when you die I'll bring you back."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Since the Student Council exists, they can't not take action. I think there are two possibilities:\n1. The Student Council needs a condition to attack, such as offending them, which gives them the condition to attack;\n2. The time hasn't come yet."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "What does 'time hasn't come' mean?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "It means they won't act in the first few days; they'll wait and strike at the end to wipe us all out."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "We're doomed."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Don't be so negative. It's only seven days; endure it and it'll pass. Speaking of negativity, the most negative is Huang Pang; he's even been looking at coffins for flip-top or slide-top lids."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Are there touchscreen ones? Recommend some."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Everyone burst out laughing."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Try to ensure your roommates' safety; going it alone makes survival unlikely."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(If it weren't for Sun Huawen and the others, I probably wouldn't survive a day.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(We absolutely must all live and leave here safely.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg4"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Someone yelled: 'Someone saw a dog, run!'"
+            },
+            {
+                "character": "Passerby",
+                "type": 0,
+                "value": "Run!"
+            },
+            {
+                "character": "Passerby",
+                "type": 0,
+                "value": "Aaaaaah!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "You guys run!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Sun Huawen, are you crazy? Aren't you going to run?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "You go ahead; I'll watch from a distance... seeking fortune in danger, I must gather as much information as possible quickly... If something happens to me, don't hold back."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Nonsense! Haven't you figured us out after all this time? If you die, with our brains, we wouldn't last a day! I'm staying too; if you die, we die together!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "After hearing my words, everyone in our dorm decided to stay. It was unexpected and quite touching."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I was clueless as I watched her entire meat bun purchase, thinking this little girl is unexpectedly fierce."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Run!!!!!!"
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Running sound effect"
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys8"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "So, Leader Sun, why are we running?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "People who see dogs will attract the Student Council."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "But in the cafeteria, why...?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I'm not sure yet."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Two key pieces of information!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! People who see dogs will eat meat buns."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! People who see dogs will bring the Student Council."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I don't care anymore; we'll deal with other things tomorrow. Until 8 AM tomorrow, I won't leave the dorm even if I die. Not only that, you guys aren't allowed out. Anyone who goes out is messing with me!"
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "(Actually, we didn't want to go out either)"
+                ],
+                "routes": [
+                    "The First Night"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Bus 18",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Sun Huawen and Tao Ran chose bus 16; Zhou Yiqiang and I chose bus 18."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Not bad; at least two of us might survive."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Not necessarily; if the restroom person lied to us, we’ll all be wiped out."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Go, go, go—such bad luck. Tao Ran, if you’re lucky enough to survive, watch your mouth and turn over a new leaf. Otherwise someone will eventually want to smack you."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Alright, alright. Maybe we all survive; after all, you said the brother riddle was misleading."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Let’s sleep. Once asleep, forget life or death and be at ease."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Okay, take care."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Okay, take care."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Okay, take care."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys25"
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys24"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Aaaaaahhhh! We survived!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Hey! Shake me gently! You’re gonna kill me with all that shaking!"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "wcwcwc"
+            },
+            {
+                "character": "People around",
+                "type": 0,
+                "value": "Are these two crazy?"
+            },
+            {
+                "character": "People around",
+                "type": 0,
+                "value": "Yeah, how odd..."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Leader Sun and the others, and Xiao Ze..."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Hey, let’s go check the school; maybe they went back."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys26"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Where’s the school? Why is this just an empty lot?"
+            },
+            {
+                "character": "Passerby 2",
+                "type": 0,
+                "value": "What school? Are you crazy?"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Damn, where have we been sent?"
+            },
+            {
+                "character": "Passerby 1",
+                "type": 0,
+                "value": "This makes no sense; this is City B—where else could you be?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "City B?"
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Ring ring ring"
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys27"
+            },
+            {
+                "character": "Mom",
+                "type": 0,
+                "value": "Where on earth have you gone? You’re not answering your phone! Your counselor called me—you didn’t come home last night. Are you still going to school? And that classmate Zhou Yiqiang—was he with you? Where did you two run off to?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "School? Where’s my school?"
+            },
+            {
+                "character": "Mom",
+                "type": 0,
+                "value": "How much did you drink? Take a taxi back to KU yourself!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "KU? We go to KU?"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I guess... it must be..."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Image of the dormitory"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Where are Sun Huawen and Tao Ran?"
+            },
+            {
+                "character": "Roommate 1",
+                "type": 0,
+                "value": "Huh? Sun who? Tao Ran? Who’s that?"
+            },
+            {
+                "character": "Roommate 2",
+                "type": 0,
+                "value": "Cousin, where did you and Zhou go off to? You were out all night; we thought you were missing."
+            },
+            {
+                "character": "Roommate 3",
+                "type": 0,
+                "value": "Yeah! That’s not cool. Next time remember to take me along."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "They seem to know us well?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Yeah, don’t ask and don’t say more."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "【If you don’t want to be treated like a lunatic, follow the new rules.】\n【Blend in with everyone, and don’t tell anyone about that matter.】"
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "The Disappeared"
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg12"
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Text Message",
+        "messages": [
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Although it sounds unscientific, there are many things in this world that science can't explain. Let's not act rashly."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 1,
+                "value": "Dog head emoji"
+            },
+            {
+                "character": "Huang Pang",
+                "type": 0,
+                "value": "I second that."
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Hahahahahaha."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "A classmate playing on their phone probably didn’t notice the message and laughed out loud."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The sudden laughter"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The teacher at the podium abruptly stopped lecturing"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "A deathly silence"
+            },
+            {
+                "character": "Teacher",
+                "type": 0,
+                "value": "Disrespect the teacher and you will pay the price."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The teacher slowly looked up, and the boy who laughed was instantly lifted into the air by an invisible force."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Tick…"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Red, unidentified fluid dripped from the boy’s body."
+            },
+            {
+                "character": "Some girls",
+                "type": 0,
+                "value": "Aaaaaahhhhh!!!!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Some timid girls screamed—and met the same fate as that boy."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The classroom fell into complete silence."
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg1"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The teacher resumed lecturing mechanically."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "What’s happening? Was the message real?!"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "I’ve decided: after class I’m heading to the library! I never thought my first library visit would be under these circumstances."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I’ll go to the study room to check things out—maybe I can get new intel."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Leader Sun, you’re a hero. Our dorm’s survival depends on you!"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Don’t casually say the word “dog.”"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "@Me, please don’t tell me you can see dogs…"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Get out of here—you gave me goosebumps! I’ve been right beside Tao Ran; don’t accuse me!"
+            },
+            {
+                "character": "Huang Pang",
+                "type": 0,
+                "value": "I can vouch for him."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "..."
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Ring ring ring"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Class is over."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys0"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The teacher seemed not to hear the bell and even called on a student to answer a question."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Do not answer any of the teacher’s questions."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! If the teacher drags out class, ignore it. Do not linger in the classroom after the bell."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Today is considered Day One.\nZhou Yiqiang and Huang Pang went to the library.\nXiao Ze and Tao Ran returned to class.\nSun Huawen and I are heading to the study room for information."
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "Go to the study room"
+                ],
+                "routes": [
+                    "Study room"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Study Room",
+        "messages": [
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Classmates in the study room are not necessarily normal.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "The guy with thick-framed glasses",
+                "type": 0,
+                "value": "Over seven days, as long as we follow the rules, nothing will go wrong.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Girl with a high ponytail",
+                "type": 0,
+                "value": "It's not that simple.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "The threats we know so far are three: the teacher, the dorm inspectors, and the Student Council.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "The guy in a blue baseball cap",
+                "type": 0,
+                "value": "Obviously, there are also unknown threats. I'm Tang Zheng.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "The guy with thick-framed glasses",
+                "type": 0,
+                "value": "Li Yun.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Girl with a high ponytail",
+                "type": 0,
+                "value": "Gao Tiantian.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "The question now is: the library, study room, and dorm are safe—why are we escaping to those places? What are we hiding from?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "(Gasp) I just remembered!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What did you remember?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "The deceased classmate. I just saw my classmate on the street—but he clearly died in the classroom.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Li Yun",
+                "type": 1,
+                "value": "sys3",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Did he attack anyone?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Li Yun",
+                "type": 0,
+                "value": "No.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The dead reappear intact—what is their purpose?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Suddenly, a boy entered the study room. Sun Huawen and I jumped—it was the boy who died in class. He was chatting and laughing with the classmates around him.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Classmates in the study room are not necessarily normal.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(The dead won't directly threaten the living, but their existence certainly isn't meaningless. What is their purpose in appearing?)",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "I have an immature conclusion: the dead won't kill directly; they might kill indirectly in some way.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I agree.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 0,
+                "value": "! The dead favor killing indirectly.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Gao Tiantian",
+                "type": 0,
+                "value": "It's the first day, and normal people still make up the vast majority here. As time goes on, communication in the study room loses meaning. In the end, I think you can't trust most of what people say. Why don't we come up with a few of our own questions and, next time we meet, ask each other? If someone can't answer, they're the mole, and we stop communicating. How about that?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Can you guarantee that when someone dies, their memory is gone?",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "You go probe that guy.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Me probe a dead man? No way!",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I'm scared.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "It's okay; this is the study room.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "That's true."
+                ],
+                "routes": [
+                    "Deceased classmate"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "The Third Day",
+        "messages": [
+            {
+                "character": "Dorm Supervisor",
+                "type": 0,
+                "value": "All clear now, you can go back."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Image of the dormitory"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "So, how was it?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I briefly described last night’s events.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I punched Zhou Yiqiang.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "You laughed the hardest last night."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Brother Gu, I didn’t mean to—I couldn’t help it. Lunch is on me today!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "That’s more like it."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Today I planned to go to the library, and so did Zhou Yiqiang. Huang Pang and Sun Huawen went to class; Xiao Ze and Tao Ran also decided to head to the library.\n! The library is absolutely safe."
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "I heard someone’s preparing to escape the school—can’t take it anymore."
+            },
+            {
+                "character": "Classmate B",
+                "type": 0,
+                "value": "Wasn’t it said you can’t leave the school during this period?"
+            },
+            {
+                "character": "Classmate C",
+                "type": 0,
+                "value": "Who knows? Maybe driven insane? The fate of those who break the rules is obvious."
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Wanna take a look?"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The four of us nodded and decided to check it out."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys24"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Sure enough, someone’s climbing the wall!"
+            },
+            {
+                "character": "The wall-climber",
+                "type": 0,
+                "value": "Aaaaaahhhhh!!!"
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Scream"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "A terrifying sound came after the climb."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! You cannot leave the school before it’s unsealed."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Did you see that couple at the gate? They had red tall hats on their heads!"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Let’s go—enough of this!"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Holy crap! That scared me to death."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys15"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The library is absolutely safe!"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(That thought comforted me—I headed to the restroom.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 6,
+                "value": "bg6"
+            },
+            {
+                "character": "Mysterious Voice",
+                "type": 0,
+                "value": "Classmate, do you have any paper?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "…"
+            },
+            {
+                "character": "Mysterious Voice",
+                "type": 0,
+                "value": "Could you lend me a sheet?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(You can’t speak to someone in a restroom stall, but it didn’t forbid lending paper.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I slipped a sheet under the door.)"
+            },
+            {
+                "character": "Mysterious Voice",
+                "type": 0,
+                "value": "Thank you."
+            },
+            {
+                "character": "Mysterious Voice",
+                "type": 0,
+                "value": "The rule-makers want to trap you here forever. Never stay seven full days. Don’t take bus 17. Don’t follow in our footsteps. We hate the Student Council! We hate those with red tall hats!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(You receive a note.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The note reads:"
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Fading‐ink Note"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(1, 2, 3, 4, 6, 7. One number is missing.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What does it mean?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I was about to show it to everyone, but as soon as I stepped out, the ink vanished.)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! You must stay silent in the library or face punishment."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Better tell everyone later."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "After two hours in the library, Zhou Yiqiang and the others go to class.\nSun Huawen and I head to the study room."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Tang Zheng? What are you doing here?"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The three of us exchanged our quiz questions—no moles."
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Any news you’d swap lately?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "What do you want to know?"
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "I want info on the annihilated dorm."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "I have that. I need to know how to get out—do you?"
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Isn’t it written in the rules? Stay seven days, take bus 17 to leave."
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(Looks like he still doesn’t know.)"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "(Sun gives me a curious glance.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Do you have any info on the Student Council—like when they’ll strike?"
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Yes: They launch unconditional attacks in the final days; how to evade them is unknown."
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(! The rule-makers intend to trap us here. Suddenly recall the restroom note.)"
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "You said you wanted to know the exit—are you questioning the rule’s departure method?"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(Tang Zheng reacts quickly.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Just asking—if we could leave sooner, I heard people climbed out thinking they had a way."
+            },
+            {
+                "character": "Tang Zheng",
+                "type": 0,
+                "value": "Forget it—they’re all dead."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "We left the study room."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I was about to explain.)"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Shh—let’s talk back at the dorm tonight. How could I not believe you?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Damn, someone knows me so well.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(What does “1, 2, 3, 4, 6, 7—one number is missing” mean?)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! Those who break rules die; those who follow rules die too."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(What if I both follow and break the rules? Maybe that’s the way out—can’t be a lamb to the slaughter. We must selectively kill rules.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Looks like it’s time to gamble!)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Unknown voice) Aaaaaah!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Someone died again.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "It’s a student who was already dead?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(The dead student became the Student Council?!)"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "You receive a message: Dying enough times turns you into a Student Council member."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Can we trust the restroom info?"
+            },
+            {
+                "character": "Huang Pang",
+                "type": 0,
+                "value": "Brother Gu just said someone in the study room mentioned the Council’s final days attack."
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "Does someone in the study room always tell the truth? The rules say, don’t trust anyone lightly."
+            },
+            {
+                "character": "Huang Pang",
+                "type": 0,
+                "value": "Xiao Ze, what do you mean?"
+            },
+            {
+                "character": "Xiao Ze",
+                "type": 0,
+                "value": "I fully obey the rules. I don’t trust the restroom voice."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The dorm fell silent."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Respect everyone’s view, but I stand with Brother Gu."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Neutral faction: Me, Sun Huawen, Zhou Yiqiang."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Rule faction: Xiao Ze, Tao Ran, Huang Pang."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Next, everyone agrees to interfere no more."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Image of the note: “(1, 2, 3, 4, 6, 7—one number is missing.)”"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "If I’m right, the missing number is 5."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "So what if 5 is missing?"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Including 5, there are seven numbers. The rules say we must stay seven days; the restroom note says never stay all seven days—so before day 7 we must find a time to escape."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "The missing number is 5."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "And then?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Today is the third day… so on day 5 at what time should we run?"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "I’ll go with you?"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Aren’t you on the rule side?"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "I’m switching sides now."
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "Are you a double agent?"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "Your humor at a life-or-death moment makes death feel a bit lighter."
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Door breaking"
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys22"
+            },
+            {
+                "character": "Zhou Yiqiang",
+                "type": 0,
+                "value": "The door’s broken! I’m—aaaaah!!!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "We rushed over.\n! In the dorm, go to the supervisor if you have problems."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "I’ll ask."
+            },
+            {
+                "character": "Narrator",
+                "type": 7,
+                "value": "Knocking"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Tap tap tap"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Supervisor says if the door’s broken to stay one night in the annihilated dorm—someone will knock tomorrow."
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Don’t forget the annihilated dorm’s rules."
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! In the annihilated dorm, don’t eat anything inside or speak to anyone there."
+            },
+            {
+                "character": "Classmate from annihilated dorm",
+                "type": 0,
+                "value": "Welcome, welcome!"
+            },
+            {
+                "character": "Classmate A",
+                "type": 0,
+                "value": "Thirsty? Have some water."
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(I shook my head.)"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(I worried about Zhou Yiqiang—he talks too much and isn’t that smart…hope nothing happens to him.)"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(I glanced at Zhou Yiqiang. To my surprise, he’d duct-taped his mouth shut. Not only can’t he eat, he can’t speak.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "…"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Too late, I drifted off to sleep…"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "(Strange voice) “Are you asleep?”"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I tried to reply) !!!!! I can’t speak!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "!!!!! I can’t talk to him!"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(Out of the corner of my eye I saw a dark figure beside Tao Ran—asked if he was asleep.)"
+            },
+            {
+                "character": "Me",
+                "type": 4,
+                "value": "(This idiot! He’ll definitely answer.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I blurted to Tao Ran) “Have you had a crush on me for three years?!”"
+            },
+            {
+                "character": "Tao Ran",
+                "type": 0,
+                "value": "Yes."
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(That counts as him talking to me, right?)"
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "(I stayed up all night until dawn)"
+                ],
+                "routes": [
+                    "The Fourth Day"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "The Second Day",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "The second day"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "I have an 8 AM class. Zhou Yiqiang and Huang Pang still decided to go to the library; Sun Huawen also plans to join them. Xiao Ze and Tao Ran have an 8 AM class too, but not in my section."
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys21"
+            },
+            {
+                "character": "Sun Huawen",
+                "type": 0,
+                "value": "Stay in constant contact, keep safe, and after 8 AM don’t return to the dorm!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "Everyone in unison: Okay!"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Stepping out of the dorm, I saw the door of the room that was opened last night had turned white. Some classmates emerged, looking no different from normal people… but they’re definitely not normal! And that room is right next to ours—it sent chills down my spine!)"
+            },
+            {
+                "character": "Narrator",
+                "type": 1,
+                "value": "sys13"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(Everyone came so early? The classroom was full; only one seat remained.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(And the person sitting next to it was the classmate who died yesterday!) (I braced myself and sat down.)"
+            },
+            {
+                "character": "Me",
+                "type": 0,
+                "value": "(I’ll just ignore him.)"
+            },
+            {
+                "character": "Dead classmate",
+                "type": 0,
+                "value": "I remember you—you asked me a question yesterday. As repayment, come eat with me after class. You won’t refuse me, right?"
+            },
+            {
+                "character": "Dead classmate",
+                "type": 1,
+                "value": "dead_classmate"
+            },
+            {
+                "character": "Me",
+                "type": 3,
+                "value": "",
+                "options": [
+                    "I can’t go",
+                    "Alright, I’ll go"
+                ],
+                "routes": [
+                    "Refuse the deceased classmate",
+                    "Meet the deceased classmate by appointment"
+                ]
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Game Over",
+        "messages": [
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "You feel a wave of dizziness as countless maw-like mouths surge toward you. Agonized screams echo in your ears, like wails from the depths of hell. The air reeks of rot and blood so strongly it’s nearly suffocating. You struggle to escape, but your limbs feel nailed in place by an unseen force—you cannot move. ---- You are dead.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Early Bird Medal",
+                "options": null,
+                "routes": null
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Refuse the deceased classmate",
+        "messages": [
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "Those who refuse are dead; I'm not threatening you.",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "You died...",
+                "options": null,
+                "routes": null
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Daredevil Medal",
+                "options": null,
+                "routes": null
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    },
+    {
+        "name": "Have the deceased classmate go to the principal's office",
+        "messages": [
+            {
+                "character": "Deceased classmate",
+                "type": 0,
+                "value": "Since you’re going to break the rules, you’ll go in my place!"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! I remembered"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "! You may go to the principal’s office, but you must not say that you can go there,"
+            },
+            {
+                "character": "Narrator",
+                "type": 4,
+                "value": "You died."
+            },
+            {
+                "character": "Narrator",
+                "type": 8,
+                "value": "Mindless Medal"
+            }
+        ],
+        "unlocked": false,
+        "end": false
+    }
+]

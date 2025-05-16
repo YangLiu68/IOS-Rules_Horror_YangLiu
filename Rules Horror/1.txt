@@ -1,0 +1,41 @@
+["Asked the deceased classmate to go to the principal's office", "Hinted that the deceased classmate should go to the principal's office"]
+========
+The First Day
+['Game over', 'Text message']
+========
+The Fourth Day
+['Bus 18', 'Bus 16']
+========
+Hinted that the deceased classmate should go to the principal's office
+['Group message']
+========
+The First Night
+['The Next Day']
+========
+Bus 16
+None
+========
+Dead Classmate
+['The First Night']
+========
+Bus 18
+Text Message
+['Study room']
+========
+Study Room
+['Deceased classmate']
+========
+The Third Day
+['The Fourth Day']
+========
+The Second Day
+['Refuse the deceased classmate', 'Meet the deceased classmate by appointment']
+========
+Game Over
+None
+========
+Refuse the deceased classmate
+None
+========
+The Second Day
+['Refuse the deceased classmate', 'Meet the deceased classmate by appointment']
