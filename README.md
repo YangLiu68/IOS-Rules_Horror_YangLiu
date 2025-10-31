@@ -1,8 +1,6 @@
 
 # 📱 Rules Horror — A rule-based interactive chatting horror novel
 
-# CSC780 Final Project - Yang Liu 924438213
-
 > **Rules Horror** is an interactive visual novel built with SwiftUI and Firebase. The player progresses through the story one line at a time in a **chat-style interface**, making choices that influence the timeline and ending. Along the way, they can **collect items**, **unlock hidden content**, and experience an **immersive narrative adventure**.
 
 ---
